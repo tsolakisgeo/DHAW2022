@@ -2,7 +2,7 @@
 class: 17
 day: Friday, November 4
 title: test
-tags: [tag, tag]
+tags: 
 ---
 
 ## Assignment due: 

@@ -2,7 +2,7 @@
 class: 10
 day: Wednesday, October 19
 title: test
-tags: [tag, tag]
+tags: 
 ---
 
 ## Assignment due: 
