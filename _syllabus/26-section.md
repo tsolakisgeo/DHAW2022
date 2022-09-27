@@ -22,4 +22,4 @@ tags:
 - TBD 
 
 ## Notes 
-- blah, blah, blah
+- TBD
