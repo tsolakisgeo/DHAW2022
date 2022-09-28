@@ -61,4 +61,4 @@ While the digital tools and methods that are going to be presented will be exemp
 
 **Classes 13-25:** Various topics building on the themes covered in Classes 1-12.
 
-**Classes 13-25:** Final Presentation.
+**Class 26:** Final Presentation.
