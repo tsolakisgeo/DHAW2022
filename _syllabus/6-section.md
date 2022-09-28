@@ -1,7 +1,7 @@
 ---
 class: 6
 day: Monday, October 10
-title: test
+title: 'Python: Functions and Recursion'
 tags: 
 ---
 

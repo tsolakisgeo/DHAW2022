@@ -1,7 +1,7 @@
 ---
 class: 3
 day: Monday, October 3
-title: test
+title: 'Textual Markup: XML'
 tags: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 class: 4
 day: Wednesday, October 5
-title: test
+title: 'Python: Introduction'
 tags: 
 ---
 

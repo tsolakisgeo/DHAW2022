@@ -1,7 +1,7 @@
 ---
 class: 2
 day: Friday, September 30
-title: test
+title: 'Textual Markup: HTML'
 tags: 
 ---
 
@@ -9,7 +9,7 @@ tags:
 - TBD 
 - TBD 
 
-## Before Class 
+## Before Class ``
 - TBD 
 - TBD 
 
@@ -22,4 +22,4 @@ tags:
 - TBD 
 
 ## Notes 
-- TBD
+- TBD 
