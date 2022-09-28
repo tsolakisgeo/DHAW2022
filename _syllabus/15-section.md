@@ -1,7 +1,7 @@
 ---
 class: 15
 day: Monday, October 31
-title: test
+title: 'Social Networds: Going beyond Facebook and Twitter'
 tags: 
 ---
 

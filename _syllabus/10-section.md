@@ -1,7 +1,7 @@
 ---
 class: 10
 day: Wednesday, October 19
-title: test
+title: 3D Imagining
 tags: 
 ---
 

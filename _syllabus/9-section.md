@@ -1,7 +1,7 @@
 ---
 class: 9
 day: Monday, October 17
-title: test
+title: QGIS
 tags: 
 ---
 

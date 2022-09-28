@@ -1,7 +1,7 @@
 ---
 class: 17
 day: Friday, November 4
-title: test
+title: 'Blender (1/2)'
 tags: 
 ---
 

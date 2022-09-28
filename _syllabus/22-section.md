@@ -1,7 +1,7 @@
 ---
 class: 22
 day: Wednesday, November 16
-title: test
+title: 'Terminal basics'
 tags: 
 ---
 

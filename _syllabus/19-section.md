@@ -1,7 +1,7 @@
 ---
 class: 19
 day: Wednesday, November 9
-title: test
+title: 'Digital Objects and Copyrights'
 tags: 
 ---
 

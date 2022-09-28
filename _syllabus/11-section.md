@@ -1,7 +1,7 @@
 ---
 class: 11
 day: Friday, October 21
-title: test
+title: 3D Modeling
 tags: 
 ---
 

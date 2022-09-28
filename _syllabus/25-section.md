@@ -1,7 +1,7 @@
 ---
 class: 25
 day: Wednesday, November 30
-title: test
+title: Hackathon
 tags: 
 ---
 

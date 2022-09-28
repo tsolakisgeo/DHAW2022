@@ -1,7 +1,7 @@
 ---
 class: 12
 day: Monday, October 24
-title: test
+title: Virtual and Augmented Reality
 tags: 
 ---
 

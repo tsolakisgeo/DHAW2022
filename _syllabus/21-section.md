@@ -1,7 +1,7 @@
 ---
 class: 21
 day: Monday, November 14
-title: test
+title: 'Final Project Proposals'
 tags: 
 ---
 
