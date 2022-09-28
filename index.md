@@ -49,9 +49,16 @@ While the digital tools and methods that are going to be presented will be exemp
 
 ## Basic course structure
 
-**Week 1–4:** Something basic.
+**Classes 1–3:** Text Markup.
 
-**Week 5–7:** Something not that basic.
+**Classes 4–6:** Python.
 
-**Week 8-12:** There will be sweat.
+**Classes 7-9:** Mapping.
 
+**Classes 10-12:** 3D.
+
+**Before Class 14:** Meet with the instructor to discuss your Final Project.
+
+**Classes 13-25:** Various topics building on the themes covered in Classes 1-12.
+
+**Classes 13-25:** Final Presentation.
