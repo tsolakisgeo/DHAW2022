@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- Push a file to your repository and another one to the common repository.
+- Push two files to GitHub: one to your repository and another to the common repository.
 
 ## Before Class 
 - Install [Download Visual Studio Code](https://code.visualstudio.com/download).
