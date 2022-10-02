@@ -14,7 +14,7 @@ Mondays, Wednesdays, Fridays 14:30-15:20
 Green Hall 117
 
 ## Who am I (and how to contact me)? 
-Georgios Tsolakis
+[Georgios Tsolakis](https://classics.uchicago.edu/people/georgios-tsolakis)
 
 tsolakisgeo@uchicago.edu
 
