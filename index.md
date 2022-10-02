@@ -8,15 +8,17 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-## Lectures/seminars
+## Lectures/seminars 
+Mondays, Wednesdays, Fridays 14:30-15:20 
+Green Hall 117 
 
-Mondays, Wednesdays, Fridays 14:30-15:20
+## Who am I (and how to contact me)? 
+Georgios Tsolakis 
+tsolakisgeo@uchicago.edu 
+Office hours: 	Mondays, 15:30-17:00, Tuesdays, 13:00-14:00, and by appointment. 
 
-Green Hall 117
 
-
-## What is this course about?
-
+## What is this course about? 
 Would you like to make and print a 3D copy of your favorite ancient object? Do you want to learn how to design a map of the ancient world? How about creating a Facebook for ancient people?
 
 This class offers a hands-on introduction to the field of digital humanities with a special focus on ancient Greek and Roman antiquity. It is hard to provide a commonly accepted definition of Digital Humanities (DH). For the purpose of this class, however, we will define DH as a discipline that runs across the fields of humanities, whose scholars aim not only to study the different manifestations of human cultures and societies, but also to participate actively in using and developing computational tools that facilitate their work. 
