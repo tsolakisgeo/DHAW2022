@@ -9,13 +9,16 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
 ## Lectures/seminars 
-Mondays, Wednesdays, Fridays 14:30-15:20 
-Green Hall 117 
+Mondays, Wednesdays, Fridays 14:30-15:20
+
+Green Hall 117
 
 ## Who am I (and how to contact me)? 
-Georgios Tsolakis 
-tsolakisgeo@uchicago.edu 
-Office hours: 	Mondays, 15:30-17:00, Tuesdays, 13:00-14:00, and by appointment. 
+Georgios Tsolakis
+
+tsolakisgeo@uchicago.edu
+
+Office hours: 	Mondays, 15:30-17:00, Tuesdays, 13:00-14:00, and by appointment.
 
 
 ## What is this course about? 
