@@ -3,7 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-<p><b>{{ page.day }} / Week {{ page.week }}</b></p>
+<p><b>{{ page.day }} / Class {{ page.class }}</b></p>
 
 <h1>
 	{{ page.title }}
@@ -19,7 +19,7 @@ layout: default
 
 {% capture the_collection %}{{page.collection}}{% endcapture %}
 {% if page.collection %}
-	{% assign  document = site[the_collection] | sort: "week"   %}
+	{% assign  document = site[the_collection] | sort: "class"   %}
 {% endif %}
 {% for links in document %}
   {% if links.title == page.title %}
@@ -44,5 +44,5 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 <div class="unitPagination">
 	{% if prevurl %}<a href="{{ site.baseurl }}{{prevurl}}" class="prev">⇦ previous class</a>{% endif %}
 	{% if nexturl %}<a href="{{ site.baseurl }}{{nexturl}}" class="next">next class ⇨</a>{% endif %}
-	<a href="{{ site.baseurl }}/reading.html" class="index">unit index</a>
+	<a href="{{ site.baseurl }}/schedule.html" class="index">Schedule</a>
 </div>
