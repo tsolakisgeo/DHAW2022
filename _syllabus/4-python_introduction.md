@@ -6,7 +6,8 @@ tags:
 ---
 
 ## Assignment due: 
-- TBD 
+- Upload three files on GitHub:
+    - 1. An HTML that is using at least 
 - TBD 
 
 ## Before Class 
