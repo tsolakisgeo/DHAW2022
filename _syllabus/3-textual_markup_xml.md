@@ -17,4 +17,4 @@ tags:
 - Drucker, J. (2021) _The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship_, London/New York: Routledge, pp. 52-69. 
 
 ## Notes 
-- Before we dive in to XML files, we will review HTML and CSS.
+- Before we dive into XML files, we will review HTML and CSS.
