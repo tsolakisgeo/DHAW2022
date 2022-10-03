@@ -17,7 +17,7 @@ tags:
 - TBD 
 
 ## Extra Readings
-- [Python Programming for the Humanities](http://www.karsdorp.io/python-course/)
+- [Python Programming for the Humanities](http://www.karsdorp.io/python-course/).
 - Altenkirch, T., Triguero, I. (2020) _Conceptual Programming with Python_.
 - Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_ (available [here](https://www.greenteapress.com/thinkpython/thinkpython.html)).
 
