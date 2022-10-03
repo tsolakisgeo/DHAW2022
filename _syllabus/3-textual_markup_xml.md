@@ -18,3 +18,6 @@ tags:
 
 ## Notes 
 - Before we dive into XML files, we will review HTML and CSS.
+
+#### Helpful websites
+- [Structure Of An EpiDoc Edition](https://epidoc.stoa.org/gl/latest/supp-structure.html).
