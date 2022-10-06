@@ -13,4 +13,4 @@ tags:
 
 
 ## Reading 
-- Flanders, J., Jannidis, F. (2008) “Data Modeling,” in S. Schreibman, R. Siemens and J. Unsworth (eds.) _A New Companion to Digital Humanities_ (Blackwell Companions to Literature and Culture, 1), Chichester: Wiley-Blackwell.
+- Flanders, J., Jannidis, F. (2008) “Data Modeling,” in S. Schreibman, R. Siemens and J. Unsworth (eds.) _A New Companion to Digital Humanities_ (Blackwell Companions to Literature and Culture, 1), Chichester: Wiley-Blackwell <https://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch16>.
