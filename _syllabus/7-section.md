@@ -12,16 +12,7 @@ tags:
 - Do not forget to push it on GitHub when you are done.
 
 ## Before Class 
-- TBD 
-- TBD 
+- Make sure that you have installed a software that opens cvs data like MS Excel or LibreOffice[https://www.libreoffice.org/].
 
 ## Reading 
-- TBD 
-- TBD 
-
-## Familiarize yourself with: 
-- TBD 
-- TBD 
-
-## Notes 
-- TBD
+- Southall, H., Mostern, R., Berman, M. L. (2011) “On historical gazetteers,” _International Journal of Humanities and Arts Computing_, 5; 2, pp. 127-145. DOI: 10.3366/ijhac.2011.0028.
