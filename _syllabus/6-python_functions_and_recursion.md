@@ -11,7 +11,7 @@ tags:
 ## Reading 
 - Downey, A. B. (2015) _Think Python. How to Think Like a Computer Scientist_: Chapter 3 (Functions) and 5 (Conditionals and Recursion). Available [here](https://greenteapress.com/thinkpython2/thinkpython2.pdf).
 - Three videos by Matt Parker:
-- [Stand-up comedy routine about Spreadsheets](https://www.youtube.com/watch?v=UBX2QQHlQ_I).
-- [When Spreadsheets Attack!](https://www.youtube.com/watch?v=yb2zkxHDfUE).
-- [UK Government loses data because of Excel mistake](https://www.youtube.com/watch?v=zUp8pkoeMss).
+    1 [Stand-up comedy routine about Spreadsheets](https://www.youtube.com/watch?v=UBX2QQHlQ_I).
+    2 [When Spreadsheets Attack!](https://www.youtube.com/watch?v=yb2zkxHDfUE)
+    3 [UK Government loses data because of Excel mistake](https://www.youtube.com/watch?v=zUp8pkoeMss).
 
