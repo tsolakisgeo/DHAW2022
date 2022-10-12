@@ -12,7 +12,7 @@ tags:
 - Do not forget to push it on GitHub when you are done.
 
 ## Before Class 
-- Make sure that you have installed a software that opens cvs data like MS Excel or LibreOffice[https://www.libreoffice.org/].
+- Make sure that you have installed a software that opens cvs data like MS Excel or [LibreOffice](https://www.libreoffice.org/).
 
 ## Reading 
 - Southall, H., Mostern, R., Berman, M. L. (2011) “On historical gazetteers,” _International Journal of Humanities and Arts Computing_, 5; 2, pp. 127-145. DOI: 10.3366/ijhac.2011.0028.
@@ -20,6 +20,6 @@ tags:
 ## Notes
 
 #### Helpful websites
-- [_Pleiades_](https://pleiades.stoa.org/) "a community-built gazetteer and graph of ancient places." Pleiades dataset may be downloaded in [CSV, JSON, KML, and RDF formats](https://pleiades.stoa.org/downloads).
+- [_Pleiades_](https://pleiades.stoa.org/) is "a community-built gazetteer and graph of ancient places." Pleiades dataset may be downloaded in [CSV, JSON, KML, and RDF formats](https://pleiades.stoa.org/downloads).
 - [Antiquity À-la-carte](http://awmc.unc.edu/awmc/applications/alacarte/)
 - [geojson.io](http://geojson.io/)
