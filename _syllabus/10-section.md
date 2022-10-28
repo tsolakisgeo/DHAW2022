@@ -1,6 +1,6 @@
 ---
 class: 10
-day: Wednesday, October 19
+day: Friday, October 21
 title: 3D Imagining
 tags: 
 ---

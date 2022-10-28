@@ -1,7 +1,7 @@
 ---
 class: 14
-day: Friday, October 28
-title: Regular Expressions (REGEX)
+day: 
+title: Virtual and Augmented Reality
 tags: 
 ---
 

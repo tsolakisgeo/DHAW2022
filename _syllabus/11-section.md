@@ -1,6 +1,6 @@
 ---
 class: 11
-day: Friday, October 21
+day: Monday, October 24
 title: 3D Modeling
 tags: 
 ---

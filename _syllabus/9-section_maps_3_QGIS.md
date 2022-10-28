@@ -1,6 +1,6 @@
 ---
 class: 9
-day: Monday, October 17
+day: Wednesday, October 19
 title: QGIS
 tags: 
 ---

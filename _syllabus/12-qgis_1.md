@@ -1,7 +1,7 @@
 ---
 class: 13
 day: Wednesday, October 26
-title: Markdown
+title: QGIS (1/2)
 tags: 
 ---
 
