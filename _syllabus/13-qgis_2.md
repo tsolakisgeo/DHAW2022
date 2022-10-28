@@ -1,7 +1,7 @@
 ---
 class: 13
 day: Firday, October 28
-title:  (2/2)
+title: QGIS (2/2)
 tags: 
 ---
 
