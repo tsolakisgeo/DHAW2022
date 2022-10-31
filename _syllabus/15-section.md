@@ -1,7 +1,7 @@
 ---
 class: 15
-day: Monday, October 31
-title: 'Social Networds: Going beyond Facebook and Twitter'
+day: 
+title: 'Virtual and Augmented Reality'
 tags: 
 ---
 

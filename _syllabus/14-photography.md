@@ -1,7 +1,7 @@
 ---
 class: 14
-day: 
-title: Virtual and Augmented Reality
+day: Monday, October 31
+title: Photography
 tags: 
 ---
 
