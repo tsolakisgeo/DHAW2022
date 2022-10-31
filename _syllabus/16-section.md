@@ -1,7 +1,7 @@
 ---
 class: 17
 day: Friday, November 4
-title: 'Blender (1/2)'
+title: 'Augmented Reality'
 tags: 
 ---
 
