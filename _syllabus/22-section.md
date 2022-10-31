@@ -1,7 +1,7 @@
 ---
-class: 22
-day: Wednesday, November 16
-title: 'Terminal basics'
+class: 23
+day: Friday, November 18
+title: 'SQL'
 tags: 
 ---
 

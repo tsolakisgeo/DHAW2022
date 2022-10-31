@@ -1,7 +1,7 @@
 ---
-class: 23
-day: Friday, November 18
-title: 'SQL'
+class: 24
+day: Monday, November 28
+title: 'Debates in Digital Humanities'
 tags: 
 ---
 

@@ -1,7 +1,7 @@
 ---
-class: 17
-day: Friday, November 4
-title: 'Blender (1/2)'
+class: 18
+day: Monday, November 7
+title: 'Blender (2/2)'
 tags: 
 ---
 

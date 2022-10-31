@@ -1,7 +1,7 @@
 ---
-class: 16
-day: Wednesday, November 2
-title: Archaeogaming
+class: 17
+day: Friday, November 4
+title: 'Blender (1/2)'
 tags: 
 ---
 

@@ -1,7 +1,7 @@
 ---
-class: 21
-day: Monday, November 14
-title: 'Final Project Proposals'
+class: 22
+day: Wednesday, November 16
+title: 'Terminal basics'
 tags: 
 ---
 

@@ -1,7 +1,7 @@
 ---
-class: 18
-day: Monday, November 7
-title: 'Blender (2/2)'
+class: 19
+day: Wednesday, November 9
+title: 'Digital Objects and Copyrights'
 tags: 
 ---
 

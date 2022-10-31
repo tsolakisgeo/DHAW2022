@@ -1,7 +1,7 @@
 ---
-class: 19
-day: Wednesday, November 9
-title: 'Digital Objects and Copyrights'
+class: 20
+day: Friday, November 11
+title: 'EFES: How to publish your EpiDoc texts'
 tags: 
 ---
 

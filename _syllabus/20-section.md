@@ -1,7 +1,7 @@
 ---
-class: 20
-day: Friday, November 11
-title: 'EFES: How to publish your EpiDoc texts'
+class: 21
+day: Monday, November 14
+title: 'Final Project Proposals'
 tags: 
 ---
 

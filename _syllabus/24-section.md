@@ -1,7 +1,7 @@
 ---
-class: 24
-day: Monday, November 28
-title: 'Debates in Digital Humanities'
+class: 25
+day: Wednesday, November 30
+title: Hackathon
 tags: 
 ---
 

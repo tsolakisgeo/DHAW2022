@@ -1,7 +1,7 @@
 ---
-class: 15
-day: 
-title: 'Virtual and Augmented Reality'
+class: 16
+day: Wednesday, November 2
+title: Archaeogaming
 tags: 
 ---
 

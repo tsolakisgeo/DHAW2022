@@ -1,7 +1,7 @@
 ---
-class: 25
-day: Wednesday, November 30
-title: Hackathon
+class: 26
+day: Friday, December 2
+title: Final Project Presentations
 tags: 
 ---
 
@@ -22,4 +22,4 @@ tags:
 - TBD 
 
 ## Notes 
-- TBD
+- Let me know if you want to invite anyone to attend your final presentation.
