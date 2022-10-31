@@ -25,4 +25,4 @@ tags:
   - In URL, paste the link you copied and add `/tile/{z}/{y}/{x}`.
   - Press OK. Then you will able to drap  and drop it in Layers.
   - [OpenDem](https://www.opendem.info/opendem_client.html). You can download contour datasets in shape format.
-- Ancient World Mapping Center(), that provides different resources for diggital mapping of the ancient world. You may want to check the Spapefiles in [Resources](http://awmc.unc.edu/wordpress/map-files/).
+- [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/), that provides different resources for diggital mapping of the ancient world. You may want to check the Spapefiles in [Resources](http://awmc.unc.edu/wordpress/map-files/).
