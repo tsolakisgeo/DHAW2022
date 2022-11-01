@@ -9,9 +9,9 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
 ## Lectures/seminars 
-Mondays, Wednesdays, Fridays 14:30-15:20
+Mondays, Wednesdays, Fridays 14:30-15:20.
 
-Green Hall 117
+Green Hall 117.
 
 ## Who am I (and how to contact me)? 
 [Georgios Tsolakis](https://classics.uchicago.edu/people/georgios-tsolakis)
