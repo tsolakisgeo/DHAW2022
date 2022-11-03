@@ -6,8 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- TBD 
-- TBD 
+- No assignment 
 
 ## Before Class 
 - TBD 
