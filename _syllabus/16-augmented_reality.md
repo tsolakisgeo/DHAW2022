@@ -19,3 +19,8 @@ tags:
 
 ## Familiarize yourself with:
 - Metashape.
+
+## Notes 
+
+#### Helpfull websites
+- [Augment](https://www.augment.com/).
