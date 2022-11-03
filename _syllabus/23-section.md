@@ -1,5 +1,5 @@
 ---
-class: 24
+class: 23
 day: Monday, November 28
 title: 'Debates in Digital Humanities'
 tags: 

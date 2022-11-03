@@ -1,5 +1,5 @@
 ---
-class: 20
+class: 19
 day: Friday, November 11
 title: 'EFES: How to publish your EpiDoc texts'
 tags: 

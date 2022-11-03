@@ -1,5 +1,5 @@
 ---
-class: 21
+class: 20
 day: Monday, November 14
 title: 'Final Project Proposals'
 tags: 

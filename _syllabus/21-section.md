@@ -1,5 +1,5 @@
 ---
-class: 22
+class: 21
 day: Wednesday, November 16
 title: 'Terminal basics'
 tags: 

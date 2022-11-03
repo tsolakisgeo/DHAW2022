@@ -1,5 +1,5 @@
 ---
-class: 26
+class: 25
 day: Friday, December 2
 title: Final Project Presentations
 tags: 

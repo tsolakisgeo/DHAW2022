@@ -1,5 +1,5 @@
 ---
-class: 25
+class: 24
 day: Wednesday, November 30
 title: Hackathon
 tags: 

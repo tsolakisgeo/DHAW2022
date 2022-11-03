@@ -1,5 +1,5 @@
 ---
-class: 23
+class: 22
 day: Friday, November 18
 title: 'SQL'
 tags: 

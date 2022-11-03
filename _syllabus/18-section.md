@@ -1,5 +1,5 @@
 ---
-class: 19
+class: 18
 day: Wednesday, November 9
 title: 'Digital Objects and Copyrights'
 tags: 
