@@ -17,5 +17,5 @@ tags:
  - Watch the [Augment 4.0 App Tutorials’ playlist](https://www.youtube.com/watch?v=IsVz5K15uNU&list=PLv-4fjJycLXk3IOhaC1WSBa3IgmReP3Jw&ab_channel=Augment).
 
 
-## Familiarize yourself with: 
+## Familiarize yourself with:
 - Metashape.
