@@ -38,10 +38,10 @@ tags:
 - COVID-19 Mapping Project
 - Spatial analysis
 
-#### 3D Modeling
+#### 3D Imaging
 - 3D models of OI
 
-#### 3D Imaging
+#### 3D Modeling
 - Create a model of a favorite character 
 
 
