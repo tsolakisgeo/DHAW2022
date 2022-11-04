@@ -25,3 +25,23 @@ tags:
 #### Helpfull websites
 - [Augment](https://www.augment.com/).
 - [Augment Universal Tracker](https://www.augment.com/assets/trackers/A4_Tracker.pdf).
+
+## Proposed topics 
+#### HTML
+- Create a website, e.g., "[Learning the Great Gatsby](https://learningthegreatgatsby.weebly.com/)"
+
+#### Python
+- Most-frequent-word analysis
+- Data Analysis with Pandas
+
+#### Mapping - QGIS
+- COVID-19 Mapping Project
+- Spatial analysis
+
+#### 3D Modeling
+- 3D models of OI
+
+#### 3D Imaging
+- Create a model of a favorite character 
+
+
