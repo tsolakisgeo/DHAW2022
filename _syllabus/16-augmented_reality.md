@@ -42,6 +42,4 @@ tags:
 - 3D models of OI
 
 #### 3D Modeling
-- Create a model of a favorite character 
-
-
+- Create a model of a favorite character
