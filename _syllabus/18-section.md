@@ -1,7 +1,7 @@
 ---
 class: 18
 day: Wednesday, November 9
-title: 'Digital Objects and Copyrights'
+title: 'Blender (1/2)'
 tags: 
 ---
 
@@ -10,8 +10,7 @@ tags:
 - TBD 
 
 ## Before Class 
-- TBD 
-- TBD 
+- Download [Blender](https://www.blender.org/download/) 
 
 ## Reading 
 - TBD 
