@@ -27,7 +27,7 @@ tags:
 ##### Open Blender
   - Select and delete the cube
   - Select and delete the light
-  - Shift + A -> Mesh - Plane
+  - Shift + A -> Mesh -> Plane
 - Go to Edit Mode
   - Right click on the place and Subdivide
   - Repeat (several times) with Shift + R
@@ -39,7 +39,6 @@ tags:
   - Midlevel 0.1
 - Texture properties
   - Open and Choose the elevation .jpg
-  - 
 - Modifier
   - Add modifier -> Generate -> Subdivision surface
   - Right click on the object and Shade smooth
