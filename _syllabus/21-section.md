@@ -11,3 +11,10 @@ tags:
 
 ## Reading 
 - [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions) 
+
+## Notes
+
+#### Helpful sites
+- [[Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)]
+- [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
+- [RegEX cheatsheet](https://quickref.me/regex)
