@@ -6,20 +6,7 @@ tags:
 ---
 
 ## Assignment due: 
-- TBD 
-- TBD 
-
-## Before Class 
-- TBD 
-- TBD 
+- Solve the [RegexOne](https://regexone.com/lesson/introduction_abcs) tutorial.
 
 ## Reading 
-- TBD 
-- TBD 
-
-## Familiarize yourself with: 
-- TBD 
-- TBD 
-
-## Notes 
-- TBD
+- [Understanding Regular Expressions](https://programminghistorian.org/en/lessons/understanding-regular-expressions) 
