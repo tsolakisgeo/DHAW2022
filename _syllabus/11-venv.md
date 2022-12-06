@@ -23,7 +23,8 @@ tags:
 
 ## Notes 
 
-#### Create a Virtual Enviroment
+#### Create a Virtual Environment
+
 |Windows||Mac|
 |:-|:-:|:-|
 |Windows+R. Type "CMD"||In applications, search for “Terminal”|
@@ -37,7 +38,7 @@ tags:
 |`rmdir myawesomeproject /s` <br /> `rm -rf requirements.txt/`|  ... and delete the directory <br /> `/s` Deletes a directory tree (the specified directory and all its subdirectories, including all files)|`rmdir myawesomeproject /s` <br /> `rm -rf requirements.txt/`|
 |`python -m venv myawesomeproject\venv` <br /> `myawesomeproject\venv\Scripts\activate.bat` <br /> `pip install -r requirements.txt`|If you want to create a env with the same requirements|`python3 -m venv myawesomeproject/venv` <br /> `source myawesomeproject/venv/bin/activate` <br /> `pip install -r requirements.txt`|
 
-#### Create a Virtual Enviroment for Jupyter Notebook
+#### Create a Virtual Environment for Jupyter Notebook
 - conda create -n myenv
 - conda create -n myenv python=3.6
 - conda activate myenv
@@ -47,3 +48,6 @@ tags:
 - conda install -c anaconda ipykernel
 - python -m ipykernel install --user --name=venv
 - jupyter notebook
+
+
+#### Managing Virtual Environments ([Workflow](https://twitter.com/paregorios/status/1578455947621515264) by Dr. Tom Elliott)
