@@ -39,4 +39,14 @@ tags:
 |You should never commit the venv to source control, thus do not forget to include a `.gitignore` file with: | `venv/` |
 
 #### Create a Virtual Environment for Jupyter Notebook
+- conda create -n myenv
+- conda create -n myenv python=3.6
+- conda activate myenv
+- conda env remove -n myenv
 
+- pip install --user ipykernel
+- conda install -c anaconda ipykernel
+- python -m ipykernel install --user --name=venv
+- jupyter notebook
+
+#### Managing Virtual Environments ([Workflow](https://twitter.com/paregorios/status/1578455947621515264) by Dr. Tom Elliott)
