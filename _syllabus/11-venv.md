@@ -1,7 +1,7 @@
 ---
 class: 11
 day: Monday, October 24
-title: 3D Modeling
+title: Virtual Enviroments
 tags: 
 ---
 
