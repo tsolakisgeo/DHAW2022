@@ -36,16 +36,7 @@ tags:
 |Let’s deactivate the environment...|`deactivate`|
 |  ... and delete the directory |__Windows__ <br /> `rmdir myawesomeproject /s` <br /><br /> __Mac__ <br /> `rm -rf myawesomeproject/`|
 |If you want to create a env with the same packages|__Windows__ <br /> `python -m venv myawesomeproject\venv` <br /> `myawesomeproject\venv\Scripts\activate.bat` <br /> `pip install -r requirements.txt` <br /><br /> __Mac__ <br /> `python3 -m venv myawesomeproject/venv` <br /> `source myawesomeproject/venv/bin/activate` <br /> `pip install -r requirements.txt`|
+|You should never commit the venv to source control, thus do not forget to include a `.gitignore` file with: | `venv/` |
 
 #### Create a Virtual Environment for Jupyter Notebook
-- conda create -n myenv
-- conda create -n myenv python=3.6
-- conda activate myenv
-- conda env remove -n myenv
 
-- pip install --user ipykernel
-- conda install -c anaconda ipykernel
-- python -m ipykernel install --user --name=venv
-- jupyter notebook
-
-#### Managing Virtual Environments ([Workflow](https://twitter.com/paregorios/status/1578455947621515264) by Dr. Tom Elliott)
