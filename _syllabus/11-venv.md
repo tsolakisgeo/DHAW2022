@@ -24,6 +24,7 @@ tags:
 ## Notes 
 
 #### Create a Virtual Environment
+
 | Instructions | Commands |
 |:-|:-|
 |<img width=250/>|<img width=400/>|
