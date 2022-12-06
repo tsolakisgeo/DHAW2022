@@ -24,8 +24,7 @@ tags:
 ## Notes 
 
 #### Create a Virtual Environment
-
-|Instructions &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Commands &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+| Instructions | Commands |
 |:-|:-|
 |<img width=250/>|<img width=400/>|
 |Open terminal|__Windows__ <br /> Windows+R. Type "CMD" <br /><br /> __Mac__ <br /> In applications, search for “Terminal” |
@@ -36,7 +35,7 @@ tags:
 |Take the output and put it in a requirements.txt file|`pip freeze` <br /> `pip freeze > requirements.txt` <br /> `cat requirements.txt`|
 |Let’s deactivate the environment...|`deactivate`|
 |  ... and delete the directory |__Windows__ <br /> `rmdir myawesomeproject /s` <br /><br /> __Mac__ <br /> `rm -rf myawesomeproject/`|
-|If you want to create a env with the same requirements|__Windows__ <br /> `python -m venv myawesomeproject\venv` <br /> `myawesomeproject\venv\Scripts\activate.bat` <br /> `pip install -r requirements.txt` <br /><br /> __Mac__ <br /> `python3 -m venv myawesomeproject/venv` <br /> `source myawesomeproject/venv/bin/activate` <br /> `pip install -r requirements.txt`|
+|If you want to create a env with the same packages|__Windows__ <br /> `python -m venv myawesomeproject\venv` <br /> `myawesomeproject\venv\Scripts\activate.bat` <br /> `pip install -r requirements.txt` <br /><br /> __Mac__ <br /> `python3 -m venv myawesomeproject/venv` <br /> `source myawesomeproject/venv/bin/activate` <br /> `pip install -r requirements.txt`|
 
 #### Create a Virtual Environment for Jupyter Notebook
 - conda create -n myenv
